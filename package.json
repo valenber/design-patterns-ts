@@ -1,0 +1,17 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc ./patterns/*.ts",
+    "dev": "tsc --watch ./patterns/*.ts"
+  },
+  "keywords": [],
+  "author": "Valentin Berlin",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
+}
